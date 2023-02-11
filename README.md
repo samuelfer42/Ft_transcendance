@@ -27,8 +27,9 @@ Direct Messages: Send private messages to other players for a more personalized 
 Personalized Dashboard: Track your game stats and see how you compare to other players.
 
 ## Start
-Run together: `docker-compose up`
-Build and run together: `docker-compose up --build`
+- Run together: `docker-compose up`
+
+- Build and run together: `docker-compose up --build`
 
 ## Conclusion
 ft_transcendance is a unique and fun project that showcases our ability to create interactive web experiences using modern technologies. Whether you're a recruiter looking for talented developers or just a fan of pong and chat games, we invite you to check out our project and see for yourself what we can do.
