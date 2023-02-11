@@ -6,9 +6,6 @@ ft_transcendance is a student project from School 42, showcasing our skills in w
 ## Project Overview
 ft_transcendance is an online pong game with a twist! Not only can you play the classic game of pong with friends or strangers, but you can also chat with them and even send direct messages. This adds a whole new level of interactivity to the classic game, making it a fun and social experience.
 
-## Run
-Run together: `docker-compose up`
-Build and run together: `docker-compose up --build`
 
 ## Technology Stack
 - Typescript: Used as the primary programming language to ensure the code is maintainable, scalable, and readable.
@@ -29,6 +26,9 @@ Direct Messages: Send private messages to other players for a more personalized 
 
 Personalized Dashboard: Track your game stats and see how you compare to other players.
 
+## Start
+Run together: `docker-compose up`
+Build and run together: `docker-compose up --build`
 
 ## Conclusion
 ft_transcendance is a unique and fun project that showcases our ability to create interactive web experiences using modern technologies. Whether you're a recruiter looking for talented developers or just a fan of pong and chat games, we invite you to check out our project and see for yourself what we can do.
